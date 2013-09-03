@@ -1,2 +1,2 @@
-4d-tipshow-to-manage-widget-events
+4d-tips-how-to-manage-widget-events
 ==================================
